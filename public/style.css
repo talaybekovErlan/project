@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.header-cont{
+    background-color: white;
+    width: 200px;
+    height: 1000px;
+};
