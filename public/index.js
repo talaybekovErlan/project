@@ -1,1 +1,1 @@
-alert('danya loh');
+root = document.querySelector('.root');
