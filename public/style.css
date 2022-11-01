@@ -1,27 +1,17 @@
 *{
     box-sizing: border-box;
 }
-html{
-    scroll-behavior: smooth;
+
+.header{
+    height: 115px;
+    display: flex;
 }
-body{
-    margin: 0;
-    padding: 0;
+.menu{
+    width: 70%;
 }
-a{
-    list-style: none;
-    text-decoration: none;
+.menu-ul{
+    background-color: black;
 }
-ul{
-    list-style: none;
-    text-decoration: none;
+.logo{
+    height: inherit;
 }
-li{
-    list-style: none;
-    text-decoration: none;
-}
-.header-cont{
-    background-color: white;
-    width: 200px;
-    height: 1000px;
-};
